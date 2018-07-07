@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cricket Score Counter</string>
+    <string name="team_a">Team A</string>
+    <string name="six">Six</string>
+    <string name="four">Four</string>
+    <string name="single">Single</string>
+    <string name="out">Out</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+
+    <string name="team_score"><xliff:g example="0" id="over">%d</xliff:g>/<xliff:g example="0" id="balls">%d</xliff:g></string>
+    <string name="team_overs">Overs - <xliff:g example="0" id="over">%d</xliff:g>.<xliff:g example="0" id="balls">%d</xliff:g></string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="over_text_margin">24dp</dimen>
+    <dimen name="button_bottom_margin">8dp</dimen>
+    <dimen name="team_over_text_size">18sp</dimen>
+    <dimen name="title_font_size">36sp</dimen>
+    <dimen name="team_score_text_size">45sp</dimen>
+</resources>
